@@ -1,0 +1,17 @@
+{
+  "name": "todo-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "beefy index.js --live --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "global": "^4.3.0",
+    "humanize-time": "0.0.2",
+    "mercury": "^14.0.0",
+    "treeify": "^1.0.1"
+  }
+}
