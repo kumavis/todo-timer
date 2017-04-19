@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "global": "^4.3.0",
+    "global": "^4.3.2",
     "humanize-time": "0.0.2",
     "mercury": "^14.0.0",
     "treeify": "^1.0.1"
